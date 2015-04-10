@@ -157,8 +157,10 @@ h2{
 	border-width:1px;
 	border-color:#000000
 	float: center;
-	width: 233px;
-	margin-left: 100px;
+	height: 425px;
+	margin-left: 148px;
+	margin-top:160px;
+	margin-right:150px;
 }
 
 .pie2{
