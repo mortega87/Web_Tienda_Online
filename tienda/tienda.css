@@ -112,7 +112,7 @@ h2{
 	float: left;
 	width: 233px;
 	background: #FFFFFF;
-	margin-left: 148px;
+	margin-left: 20px;
 	height: auto;
 
 }
@@ -152,17 +152,15 @@ h2{
 	border-color:#000000
 }
 
-.producto_destacado{ 
-	border-style:dashed;
-	border-width:4px;
-	border-color:#FF4000;
+.producto_destacado{
+	border-style:solid;
+	border-width:1px;
+	border-color:#000000
 	float: center;
-	height: auto;
-	width: auto;
+	height: 425px;
 	margin-left: 148px;
 	margin-top:160px;
-	margin-right:153px;
-	background: #FFFFFF;
+	margin-right:150px;
 }
 
 .pie2{
@@ -197,4 +195,46 @@ h2{
 	font-family: "Fascinate";
 	margin-left: 15px;
 	margin-top:20px;
+}
+
+.global1{
+	float: left;
+	margin-left: 30px;
+	width: 498px;
+	height: auto;
+}
+
+.global2{
+	float: left;
+	width: 202px; 
+	height: auto;
+}
+
+.producto_descripcion{
+	float: left;
+	width: 498px;
+	background: #FFFFFF;
+	height: auto;
+	
+}
+
+.producto_interes{
+	height: auto;
+	width: 202px;
+	float:left;
+	background: #F0F0F0;
+}
+
+.producto_interes h3{color: black;}
+
+.producto_interes h4{
+	font-family: "Fascinate";
+	letter-spacing: 1px;
+}
+
+.opiniones{
+	width:498px;
+	float:left;
+	height: 300px;
+	background: #00BFFF;
 }
