@@ -153,14 +153,24 @@ h2{
 }
 
 .producto_destacado{
+<<<<<<< HEAD
 	border-style:solid;
 	border-width:1px;
 	border-color:#000000
+=======
+	border-style:dashed;
+	border-width:3px;
+	border-color:#FF0000;
+>>>>>>> a788188b450b5dee4c222853121aa87da0995c9e
 	float: center;
 	height: 425px;
 	margin-left: 148px;
 	margin-top:160px;
 	margin-right:150px;
+<<<<<<< HEAD
+=======
+	background:#FFFFFF;
+>>>>>>> a788188b450b5dee4c222853121aa87da0995c9e
 }
 
 .pie2{
