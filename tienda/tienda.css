@@ -112,7 +112,7 @@ h2{
 	float: left;
 	width: 233px;
 	background: #FFFFFF;
-	margin-left: 148px;
+	margin-left: 20px;
 	height: auto;
 
 }
@@ -152,17 +152,16 @@ h2{
 	border-color:#000000
 }
 
-.producto_destacado{ 
+.producto_destacado{
 	border-style:dashed;
-	border-width:4px;
-	border-color:#FF4000;
+	border-width:3px;
+	border-color:#FF0000;
 	float: center;
-	height: auto;
-	width: auto;
+	height: 425px;
 	margin-left: 148px;
 	margin-top:160px;
-	margin-right:153px;
-	background: #FFFFFF;
+	margin-right:150px;
+	background:#FFFFFF;
 }
 
 .pie2{
