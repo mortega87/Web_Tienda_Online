@@ -248,3 +248,8 @@ h2{
 	height: 300px;
 	background: #00BFFF;
 }
+
+.formulario legend{
+	color:#FFFFFF;
+	font-family: "Fascinate";
+}
